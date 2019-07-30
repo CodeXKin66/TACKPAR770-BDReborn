@@ -12,7 +12,7 @@ chmod +x beyond.sh
 
 # For Auto Launch:
 cd BDReborn
-chmod 777 autobd.sh
+chmod 777 autobd.shUhttps://t.me/TACKPAR770
 screen ./autobd.sh
 ```
 ### One command
