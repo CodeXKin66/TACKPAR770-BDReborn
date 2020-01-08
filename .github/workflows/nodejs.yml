@@ -1,11 +1,12 @@
-name: Node CI
+8name: Node CI
 
 on: [push]
 
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+
+runs-on: ubuntu-latest
 
     strategy:
       matrix:
